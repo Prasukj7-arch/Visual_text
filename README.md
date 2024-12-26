@@ -80,6 +80,14 @@ This project is divided into four main components for modularity and clarity:
 
 ---
 
+## Hand-Landmark Example
+
+Below is the Mediapipe hand-landmark representation used for gesture recognition:
+
+![Hand Landmark Representation](image.png)
+
+---
+
 ## Challenges Faced
 
 - Managing and integrating multiple components of the project.  
@@ -93,12 +101,6 @@ This project is divided into four main components for modularity and clarity:
 - Expand support to recognize complete words and phrases.  
 - Improve processing speed and accuracy.  
 - Extend functionality to integrate with robotic systems for automated communication.
-
----
-
-## Hand-Landmark Example
-
-![Hand Landmark](https://img.freepik.com/premium-vector/hand-gesture-language-alphabet_23-2147881973.jpg)
 
 ---
 
@@ -131,4 +133,5 @@ Sign-to-Text/
 ├── train_classifier.py        # Script for training the model
 ├── inference_classifier.py    # Real-time recognition script
 ├── data.pickle                # Preprocessed dataset
+├── image.png                  # Hand landmark representation image
 └── README.md                  # Project documentation
