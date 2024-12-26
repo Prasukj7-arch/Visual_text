@@ -98,7 +98,11 @@ This project is divided into four main components for modularity and clarity:
 
 ## Hand-Landmark Example
 
+### Sign Language Alphabet Representation
 ![Hand Landmark](https://img.freepik.com/premium-vector/hand-gesture-language-alphabet_23-2147881973.jpg)
+
+### Mediapipe Hand Landmarks
+![Mediapipe Hand Landmarks](https://mediapipe.dev/images/mobile/hand_landmarks.png)
 
 ---
 
@@ -132,3 +136,5 @@ Sign-to-Text/
 ├── inference_classifier.py    # Real-time recognition script
 ├── data.pickle                # Preprocessed dataset
 └── README.md                  # Project documentation
+
+
