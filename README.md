@@ -87,6 +87,10 @@ The project has been divided into four main components to ensure modularity and 
 - Extend functionality to robotic systems for automated communication.
 
 ---
+## Hand-Landmark Example
+
+![Hand Landmark](assets/https://img.freepik.com/premium-vector/hand-gesture-language-alphabet_23-2147881973.jpg?semt=ais_hybrid)
+---
 
 ## Additional Learning
 
